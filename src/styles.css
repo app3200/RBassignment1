@@ -1,0 +1,104 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#ddiv {
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+table,
+th,
+td {
+  border: 2px solid;
+}
+#table1 {
+  background-color: rgb(34, 133, 179);
+  border-radius: 5px;
+  width: 80%;
+  margin: auto;
+}
+#thead1 {
+  background-color: rgb(231, 214, 114);
+  text-align: center;
+  height: 36px;
+  font-weight: bold;
+  color: rgb(54, 58, 57);
+}
+#tbody1 {
+  background-color: rgb(202, 240, 245);
+  text-align: center;
+}
+.td1 {
+  height: 28px;
+  width: 18%;
+}
+#adiv {
+  position: relative;
+  margin: auto;
+}
+#adder {
+  border: 2px solid black;
+  position: absolute;
+  margin: auto;
+  border-radius: 10px;
+  top: -200px;
+  width: 30%;
+  background-color: oldlace;
+  padding: 20px;
+  right: 500px;
+}
+#inpdiv {
+  margin: auto;
+  text-align: center;
+}
+#inpdiv > input {
+  width: 60%;
+  height: 36px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+#inpdiv > select {
+  width: 60%;
+  height: 36px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.button {
+  width: 132px;
+  padding: 4px;
+  height: 28px;
+  margin-left: 10px;
+  background-color: green;
+  border-radius: 2px;
+  color: white;
+}
+#rdiv {
+  margin: auto;
+  border: 4px solid grey;
+  width: 30%;
+  margin-top: 40px;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: paleturquoise;
+}
+#resdiv {
+  margin: auto;
+}
+#table2 {
+  margin: auto;
+  width: 100%;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+.td2 {
+  width: 30%;
+  height: 26px;
+}
+#thead2 {
+  background-color: turquoise;
+}
+#tbody2 {
+  background-color: yellowgreen;
+}
